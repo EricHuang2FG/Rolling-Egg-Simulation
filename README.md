@@ -1,0 +1,3 @@
+This is a computer simulation of the probability game Rolling Egg for the MDM4U1 Mathematics of Data Management course.
+
+The program plays the game 200000 times, and the experimental results are written in results.txt, including the winnings of every individual game, the experimental probability distribution, and the experimental average. To obtain new results, run the simulation again by running `main.py`.
